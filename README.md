@@ -1,9 +1,9 @@
-# 🟥 Getúlio Gomes
+# 🔴 Getúlio Gomes
 ### Desenvolvedor Backend | Java & Spring Boot
 
 ---
 
-## 🟥 Sobre mim
+## ❤️ Sobre mim
 - **Focado** em projetos com Java e Spring Boot  
 - Banco de dados: PostgreSQL e MySQL  
 - Estudando arquitetura de APIs REST, segurança e boas práticas  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🟥 Tecnologias que uso
+## 🚩 Tecnologias que uso
 Java | Spring Boot | PostgreSQL | MySQL | Git
 
 ---

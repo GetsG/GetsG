@@ -1,4 +1,4 @@
-<h1 style="color:#ff1a1a">⚒️ Getúlio Gomes</h1>
+<h1><span style="color:#ff1a1a">⚒️ Getúlio Gomes</span></h1>
 <h3 style="color:#ff4d4d">Desenvolvedor Backend | Java & Spring Boot</h3>
 
 ---

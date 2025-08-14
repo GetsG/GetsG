@@ -3,17 +3,17 @@
 
 ---
 
-## 🔥 Sobre mim
-- 🟥 **Focado** em projetos com Java e Spring Boot  
-- 🟥 Banco de dados: PostgreSQL e MySQL  
-- 🟥 Estudando arquitetura de APIs REST, segurança e boas práticas  
-- 🟥 Resolvo problemas com código limpo e objetivo  
-- 🟥 Sempre em busca de evolução como dev  
+## 🟥 Sobre mim
+- **Focado** em projetos com Java e Spring Boot  
+- Banco de dados: PostgreSQL e MySQL  
+- Estudando arquitetura de APIs REST, segurança e boas práticas  
+- Resolvo problemas com código limpo e objetivo  
+- Sempre em busca de evolução como dev  
 
 ---
 
 ## 🟥 Tecnologias que uso
-🟥 Java | 🟥 Spring Boot | 🟥 PostgreSQL | 🟥 MySQL | 🟥 Git
+Java | Spring Boot | PostgreSQL | MySQL | Git
 
 ---
 
